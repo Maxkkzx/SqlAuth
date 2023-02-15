@@ -1,0 +1,11 @@
+E:\Projects\WF\ExampleSQLApp\ExampleSQLApp\bin\Debug\ExampleSQLApp.exe.config
+E:\Projects\WF\ExampleSQLApp\ExampleSQLApp\bin\Debug\ExampleSQLApp.exe
+E:\Projects\WF\ExampleSQLApp\ExampleSQLApp\bin\Debug\ExampleSQLApp.pdb
+E:\Projects\WF\ExampleSQLApp\ExampleSQLApp\obj\Debug\ExampleSQLApp.csproj.AssemblyReference.cache
+E:\Projects\WF\ExampleSQLApp\ExampleSQLApp\obj\Debug\ExampleSQLApp.csproj.SuggestedBindingRedirects.cache
+E:\Projects\WF\ExampleSQLApp\ExampleSQLApp\obj\Debug\ExampleSQLApp.LoginForm.resources
+E:\Projects\WF\ExampleSQLApp\ExampleSQLApp\obj\Debug\ExampleSQLApp.Properties.Resources.resources
+E:\Projects\WF\ExampleSQLApp\ExampleSQLApp\obj\Debug\ExampleSQLApp.csproj.GenerateResource.cache
+E:\Projects\WF\ExampleSQLApp\ExampleSQLApp\obj\Debug\ExampleSQLApp.csproj.CoreCompileInputs.cache
+E:\Projects\WF\ExampleSQLApp\ExampleSQLApp\obj\Debug\ExampleSQLApp.exe
+E:\Projects\WF\ExampleSQLApp\ExampleSQLApp\obj\Debug\ExampleSQLApp.pdb
